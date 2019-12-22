@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+title: Publications
+---
+
 # Publications
 
 * [Google Scholar](https://scholar.google.co.jp/citations?user=Tkhld1sAAAAJ&hl=en)

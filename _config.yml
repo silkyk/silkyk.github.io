@@ -22,7 +22,7 @@ myblog:
   postbgimg: http://ialbum.ga/albums/Los%20Angeles/beach-1630458_1280.jpg
 
 prose:
-  rooturl: "_posts"
+  # rooturl: "_posts"
   # siteurl: "https://silkyk.github.io/"
   media: "images"
   metadata:

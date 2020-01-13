@@ -2,6 +2,7 @@
 layout: page
 published: true
 title: Publications
+permalink: /publications/
 ---
 
 # Publications
